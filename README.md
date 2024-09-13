@@ -19,7 +19,7 @@
 
 ## 🌐 Socials:
 <a href="https://instagram.com/nssyyayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nssyyayy" height="30" width="40" /></a>
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nyyysyy) 
+<a href="https://www.tiktok.com/@nyyysyy?_t=8pfr5zdMsDf&_r=1" target="blank"><img align="center" src="tiktok.png" alt="𝑠ℎ𝑦𝑎𝑦´ˎ˗" height="30" width="30" /></a>
 <a href="https://open.spotify.com/user/31q5wilal3vjsar4aukird42xzpy?si=KAQUGDerRBqlf0_caPjc5w" target="blank"><img align="center" src="spotify.png" alt="𝑠ℎ𝑦𝑎𝑦´ˎ˗" height="30" width="30" /></a>
 
 # 💻 Tech Stack:
