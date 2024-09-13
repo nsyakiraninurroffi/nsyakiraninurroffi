@@ -11,7 +11,7 @@
 ────୨ৎ────</h1>
 
 <h2 align= "center"> ♫⋆｡♪Music is answer₊˚♬ ﾟ.</h2>
- <p align ="center"> 🖥Projeckt Pyhton<br>🌱 Python, Photoshop <br>🔮 if u never try u will never knowᯓ★</p>
+ <p align ="center"> 🖥Project Pyhton<br>🌱 Python, Photoshop <br>🔮 if u never try u will never knowᯓ★</p>
 
 <br><br>
 <p align ="center"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>
