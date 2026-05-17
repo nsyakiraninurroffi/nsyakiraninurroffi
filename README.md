@@ -30,11 +30,15 @@
 <p align ="center"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>
 <br><br><br>
 
-<!-- ITEM 1: GitHub Stats (Elegant Dark Theme) -->
 <p align="center">
   <a href="https://github.com/nsyakiraninurroffi" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=nsyakiraninurroffi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Nesya's GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nsyakiraninurroffi&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Nesya's GitHub Stats" height="150" />
   </a>
+</p>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsyakiraninurroffi&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Nesya's Top Languages" height="150" />
 </p>
 <br>
 
