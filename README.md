@@ -27,9 +27,11 @@
  </p>
 
 <p align="center">
-  <a href="https://github.com/nsyakiraninurroffi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E175D8&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+...;Full-Stack+Developer+...;UI%2FUX+Design+Enthusiast+...;Crafting+Tech-Core+Aesthetics+...;if+u+never+try+u+will+never+know+★" alt="Typing Effect" />
-  </a>
+  <code>╭─── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ───╮</code><br>
+  <code>&nbsp;⚡ STATUS : Coding & Designing&nbsp;</code><br>
+  <code>&nbsp;🎯 FOCUS &nbsp;: Full-Stack & UI/UX Bento Grid&nbsp;</code><br>
+  <code>&nbsp;💻 PROJ &nbsp;&nbsp;: NESYÈL & Nashra&nbsp;</code><br>
+  <code>╰─── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ───╯</code>
 </p>
 <br>
 
