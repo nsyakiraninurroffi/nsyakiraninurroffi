@@ -1,45 +1,27 @@
 <div align="center">
-
-<!-- HEADER AREA: Image & Space Aesthetics -->
-<img src="cat1.jpg" alt="Nesya's Cat" width="150" align="right" style="border-radius: 50%; margin-left: 20px;">
+<img src="cat1.jpg" alt="" width="150" align="right">
 <br><br><br><br>
-<h1 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h1>
-
-<h1 align= "center">˚ ✦ . . ∈˚ . . ✦ ˚ . ★⋆.
- . ˚ * ✦ . . ✦˚ ∈˚ .˚ . . ∈˚ . ✦
+<h1 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h1>
+  
+<h1 align= "center">˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 <br>
 🫧Hi, Welcome to nesya's github≽^•༚• ྀི≼
 <br>
 ────୨ৎ────</h1>
 
-<!-- DESCRIPTION: Information about you -->
 <h2 align= "center"> ♫⋆｡♪Music is answer₊˚♬ ﾟ.</h2>
  <p align ="center"> 
-  🖥 <b>Software Engineering Student (XI PPLG)</b><br>
-  ✨ Full-Stack Developer & UI/UX Enthusiast<br>
+  💻 Software Engineering Student (XI PPLG)<br>
+  🖥 Full-Stack Dev & UI/UX Enthusiast<br>
   🌱 Currently crafting <b>NESYÈL</b> & <b>Nashra</b> with React, Laravel & Vite<br>
   🎨 Exploring Bento Grid UI & Tech-Core aesthetics<br>
-  🔮 <i>if u never try u will never know</i> ᯓ★
+  🔮 if u never try u will never knowᯓ★
  </p>
 
-<!-- GIF separator -->
-<br>
+<br><br>
 <p align ="center"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>
-<br>
-
-<!-- TRENDY ADDITION 1: GitHub Stats (Elegant Dark Theme) -->
-<p align="center">
-  <a href="https://github.com/nsyakiraninurroffi" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=nsyakiraninurroffi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Nesya's GitHub Stats" height="150" />
-  </a>
-</p>
-<br>
-
-<!-- TRENDY ADDITION 2: Top Languages / Skills -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsyakiraninurroffi&layout=compact&theme=tokyonight&hide_border=true" alt="Nesya's Top Languages" height="150" />
-</p>
-<br>
+<br><br><br>
 
 ## 🌐 Socials:
 <a href="https://instagram.com/nssyyayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nssyyayy" height="30" width="40" /></a>
