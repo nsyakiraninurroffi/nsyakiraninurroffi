@@ -17,9 +17,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q5wilal3vjsar4aukird42xzpy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=e175d8&interchange=true&profanity=true&hide_remaster=true&bar_color=b14e9c&bar_color_cover=true&mode=light" alt="Spotify Now Playing" />
   </a>
 </p>
-<br><br>
-<p align ="center"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>
-<br><br><br>
+
 <p align="center">
   <code>╭────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──────────────╮</code><br>
   <code>&nbsp;💻 Software Engineering Student (XI PPLG)&nbsp;</code><br>
@@ -30,7 +28,9 @@
   <code>╰────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──────────────╯</code>
 </p>
 <br>
-
+<br><br>
+<p align ="center"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>
+<br><br><br>
 ## 🌐 Socials:
 <a href="https://instagram.com/nssyyayy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nssyyayy" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@nyyysyy?_t=8pfr5zdMsDf&_r=1" target="_blank"><img align="center" src="tiktok.png" alt="Tiktok" height="30" width="30" /></a>
