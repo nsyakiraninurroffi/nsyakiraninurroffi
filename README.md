@@ -18,6 +18,8 @@
   </a>
 </p>
 <br><br>
+<p align ="center"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>
+<br><br><br>
 <p align="center">
   <code>╭────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──────────────╮</code><br>
   <code>&nbsp;💻 Software Engineering Student (XI PPLG)&nbsp;</code><br>
