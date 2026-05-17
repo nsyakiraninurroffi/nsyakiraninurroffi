@@ -18,20 +18,14 @@
   </a>
 </p>
 <br><br>
- <p align ="center"> 
-  💻 Software Engineering Student (XI PPLG)<br>
-  🖥 Full-Stack Dev & UI/UX Enthusiast<br>
-  🌱 Currently crafting <b>NESYÈL</b> & <b>Nashra</b> with React, Laravel & Vite<br>
-  🎨 Exploring Bento Grid UI & Tech-Core aesthetics<br>
-  🔮 if u never try u will never knowᯓ★
- </p>
-
 <p align="center">
-  <code>╭─── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ───╮</code><br>
-  <code>&nbsp;⚡ STATUS : Coding & Designing&nbsp;</code><br>
-  <code>&nbsp;🎯 FOCUS &nbsp;: Full-Stack & UI/UX Bento Grid&nbsp;</code><br>
-  <code>&nbsp;💻 PROJ &nbsp;&nbsp;: NESYÈL & Nashra&nbsp;</code><br>
-  <code>╰─── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ───╯</code>
+  <code>╭────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──────────────╮</code><br>
+  <code>&nbsp;💻 Software Engineering Student (XI PPLG)&nbsp;</code><br>
+  <code>&nbsp;🖥 Full-Stack Dev & UI/UX Enthusiast&nbsp;</code><br>
+  <code>&nbsp;🌱 Currently crafting <b>NESYÈL</b> & <b>Nashra</b> with React, Laravel & Vite&nbsp;</code><br>
+  <code>&nbsp;🎨 Exploring Bento Grid UI & Tech-Core aesthetics&nbsp;</code><br>
+  <code>&nbsp;🔮 if u never try u will never knowᯓ★&nbsp;</code><br>
+  <code>╰────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──────────────╯</code>
 </p>
 <br>
 
