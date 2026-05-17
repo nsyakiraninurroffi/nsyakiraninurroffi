@@ -27,14 +27,9 @@
  </p>
 
 <p align="center">
-  <a href="https://github.com/nsyakiraninurroffi" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=nsyakiraninurroffi&show_icons=true&theme=tokyonight&hide_border=true" alt="Nesya's GitHub Stats" />
+  <a href="https://github.com/nsyakiraninurroffi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E175D8&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+...;Full-Stack+Developer+...;UI%2FUX+Design+Enthusiast+...;Crafting+Tech-Core+Aesthetics+...;if+u+never+try+u+will+never+know+★" alt="Typing Effect" />
   </a>
-</p>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsyakiraninurroffi&layout=compact&theme=tokyonight&hide_border=true" alt="Nesya's Top Languages" />
 </p>
 <br>
 
