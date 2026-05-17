@@ -26,10 +26,6 @@
   🔮 if u never try u will never knowᯓ★
  </p>
 
-<br><br>
-<p align ="center"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>
-<br><br><br>
-
 <p align="center">
   <a href="https://github.com/nsyakiraninurroffi" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=nsyakiraninurroffi&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Nesya's GitHub Stats" height="150" />
@@ -37,6 +33,10 @@
 </p>
 <br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsyakiraninurroffi&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Nesya's Top Languages" height="150" />
+</p>
+<br>
 ## 🌐 Socials:
 <a href="https://instagram.com/nssyyayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nssyyayy" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@nyyysyy?_t=8pfr5zdMsDf&_r=1" target="blank"><img align="center" src="tiktok.png" alt="𝑠ℎ𝑦𝑎𝑦´ˎ˗" height="30" width="30" /></a>
