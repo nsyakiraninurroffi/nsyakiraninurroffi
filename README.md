@@ -26,18 +26,16 @@
   <code>&nbsp;🎨 Exploring Bento Grid UI & Tech-Core aesthetics&nbsp;</code><br>
   <code>&nbsp;🔮 if u never try u will never knowᯓ★&nbsp;</code><br>
   <code>╰────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──────────────╯</code>
-</p>
-<br>
-<br><br>
+</p><br><br>
 <p align ="center"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>
 <br><br><br>
+
 ## 🌐 Socials:
-<a href="https://instagram.com/nssyyayy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nssyyayy" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@nyyysyy?_t=8pfr5zdMsDf&_r=1" target="_blank"><img align="center" src="tiktok.png" alt="Tiktok" height="30" width="30" /></a>
-<a href="https://open.spotify.com/user/31q5wilal3vjsar4aukird42xzpy?si=KAQUGDerRBqlf0_caPjc5w" target="_blank"><img align="center" src="spotify.png" alt="Spotify" height="30" width="30" /></a>
+<a href="https://instagram.com/nssyyayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nssyyayy" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@nyyysyy?_t=8pfr5zdMsDf&_r=1" target="blank"><img align="center" src="tiktok.png" alt="𝑠ℎ𝑦𝑎𝑦´ˎ˗" height="30" width="30" /></a>
+<a href="https://open.spotify.com/user/31q5wilal3vjsar4aukird42xzpy?si=KAQUGDerRBqlf0_caPjc5w" target="blank"><img align="center" src="spotify.png" alt="𝑠ℎ𝑦𝑎𝑦´ˎ˗" height="30" width="30" /></a>
 
 <br><br>
-
 # 💻 Tech Stack & Tools:
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
