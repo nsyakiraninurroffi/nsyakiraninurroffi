@@ -19,13 +19,15 @@
 </p>
 
 <p align="center">
-  <code>╭────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──────────────╮</code><br>
+  <code>╭─────────────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ───────────────────────╮</code><br>
   <code>&nbsp;💻 Software Engineering Student (XI PPLG)&nbsp;</code><br>
-  <code>&nbsp;🖥 Full-Stack Dev & UI/UX Enthusiast&nbsp;</code><br>
-  <code>&nbsp;🌱 Currently crafting <b>NESYÈL</b> & <b>Nashra</b> with React, Laravel & Vite&nbsp;</code><br>
+  <code>&nbsp;🖥 Full-Stack Dev, Mobile (Flutter) & UI/UX Enthusiast&nbsp;</code><br>
+  <code>&nbsp;🌱 Crafting <b>NESYÈL</b> (React/Laravel) & <b>Nashra</b> (Muslim App with Flutter)&nbsp;</code><br>
   <code>&nbsp;🎨 Exploring Bento Grid UI & Tech-Core aesthetics&nbsp;</code><br>
   <code>&nbsp;🔮 if u never try u will never knowᯓ★&nbsp;</code><br>
-  <code>╰────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──────────────╯</code>
+  <code>╰─────────────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ───────────────────────╯</code>
+</p>
+<br>
 </p><br><br>
 <p align ="center"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>
 <br><br><br>
@@ -40,6 +42,7 @@
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
