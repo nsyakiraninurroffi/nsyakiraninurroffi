@@ -22,7 +22,6 @@
   <code>╭─────────────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ───────────────────────╮</code><br>
   <code>&nbsp;💻 Software Engineering Student (XI PPLG)&nbsp;</code><br>
   <code>&nbsp;🖥 Full-Stack Dev, Mobile (Flutter) & UI/UX Enthusiast&nbsp;</code><br>
-  <code>&nbsp;🌱 Crafting <b>NESYÈL</b> (React/Laravel) & <b>Nashra</b> (Muslim App with Flutter)&nbsp;</code><br>
   <code>&nbsp;🎨 Exploring Bento Grid UI & Tech-Core aesthetics&nbsp;</code><br>
   <code>&nbsp;🔮 if u never try u will never knowᯓ★&nbsp;</code><br>
   <code>╰─────────────────────── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ───────────────────────╯</code>
